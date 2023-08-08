@@ -1,0 +1,29 @@
+@font-face {
+  font-family: cunia;
+  src: url('/themes/hava/font/Cunia.ttf')  format('truetype');
+}
+
+@font-face {
+  font-family: aqua;
+  src: url('/themes/hava/font/aqua.ttf')  format('truetype');
+}
+
+@font-face {
+  font-family: BeautyDream;
+  src: url('/themes/hava/font/Beauty_Dream.ttf')  format('truetype');
+}
+bottlerocket
+@font-face {
+  font-family: SurfingCapital;
+  src: url('/themes/hava/font/Surfing_Capital.ttf')  format('truetype');
+}
+
+@font-face {
+  font-family: bottlerocket;
+  src: url('/themes/hava/font/bottlerocket.ttf')  format('truetype');
+}
+
+@font-face {
+  font-family: Quicksand;
+  src: url('/themes/hava/font/Quicksand.ttf')  format('truetype');
+}

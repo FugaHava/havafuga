@@ -1,0 +1,55 @@
+options:
+    -
+        name: main_title
+        specific:
+            textvalue: 'Template Editor Test'
+    -
+        name: subtitle
+        specific:
+            textvalue: 'Testing the templateditor sfdsfs'
+    -
+        name: main_color
+        specific:
+            color: '#0d0e12'
+    -
+        name: secondary_color
+        specific:
+            color: 'rgb(142, 68, 173)'
+    -
+        name: link_color
+        specific:
+            color: 'rgb(44, 62, 80)'
+    -
+        name: news_area
+        specific:
+            active: true
+    -
+        name: events_area
+        specific:
+            active: true
+    -
+        name: newsletter_area
+        specific:
+            active: true
+    -
+        name: logo_image
+        specific:
+            url: /images/content/contrexx_logo.gif
+    -
+        name: slider_images
+        specific:
+            urls:
+                1: /images/content/saitama.jpg
+                2: /images/content/download.jpeg
+    -
+        name: font_family_header
+        specific:
+            activeChoice: ''
+    -
+        name: font_family_body
+        specific:
+            activeChoice: ''
+    -
+        name: font_family_navigation
+        specific:
+            activeChoice: ''

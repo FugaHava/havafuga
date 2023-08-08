@@ -1,0 +1,48 @@
+body {
+    background-color: #040404;
+    color: white;
+    font-family: monospace;
+}
+
+img {
+    width: 100%;
+}
+
+h1, h2, h3 {
+    font-size: 50pt;
+}
+
+#text {
+    font-size: 66pt;
+}
+
+.full-height {
+  height: 100%;
+}
+
+.parent-vert {
+  position: relative;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: gray;
+}
+.child-vert {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 10em;
+  height: 5em;
+  background-color: white;
+  box-shadow: 1px 1px 10px rgba(0,0,0,.4);
+}
+
+span.typed_cursor {
+    color: #882cd7;
+}
+
+span.typed_cursor {
+    margin-left: -15px;
+}

@@ -1,0 +1,32 @@
+body {
+    background-color: #040404;
+    color: white;
+    height: 100%;
+    font-family: monospace;
+}
+
+img {
+    width: 100%;
+}
+
+h1, h2, h3 {
+    font-size: 7vh;
+}
+
+#text {
+    font-size: 66pt;
+}
+
+
+html {
+    height: 100%;
+}
+
+.full-height {
+  height: 100%;
+}
+
+
+span.typed_cursor {
+    color: #882cd7;
+}
